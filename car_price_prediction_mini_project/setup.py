@@ -17,8 +17,8 @@ def get_requirements(filepath):
 setup(
     name="CarValueML",
     version="0.0.1",
-    author="Nadagani Amulya Prasanth",
-    author_email="amulyaprasanth301@gmail.com",
+    author="venkata kondalarao kanuri",
+    author_email="kondalaraokanuri2002@gmail.com",
     packages=find_packages,
     install_requires=get_requirements('requirements.txt')
 )
